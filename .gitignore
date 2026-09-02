@@ -1,0 +1,4 @@
+dist/
+*.user
+Thumbs.db
+.DS_Store
